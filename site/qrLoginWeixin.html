@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+  	<meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="/lib/uikit/theme/theme.css" />
+    <link rel="stylesheet" href="/common.css" />
+    <style type="text/css">
+		.centerFrame {
+			display: none;
+		}
+		avatar {
+			display: block;
+			margin-bottom: 30px;
+
+		}
+		avatar>img{
+			border-radius: 5px;
+			border: 1px solid #aaa;
+		}
+	</style>
+
+	<title>使用微信账号登陆</title>
+  </head>
+  <body>
+  	<div>
+		<div class="centerFrame">
+			<avatar>
+				<img/>
+			</avatar>
+			<button id="btnLogin" class="uk-button uk-button-large .uk-width-1-1">使用微信账号登陆</button>
+		</div>
+	</div>
+  	
+    <script src="dist/vendor.bundle.js"></script>
+    <script src="lib/jquery.qrcode.min.js"></script>
+    <script src="dist/qrLoginWeixin.entry.js"></script>
+  </body>
+</html>

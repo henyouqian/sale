@@ -1,0 +1,53 @@
+body {
+	background: grey;
+}
+
+#qrFrame {
+  position: absolute;
+  z-index: 13;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  text-align: center;
+
+  padding: 30px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.4);
+}
+
+#qrcode>canvas {
+	display: block;
+	margin: auto;
+	width: 256px;
+	height: 256px;
+}
+
+#desc {
+	margin-top: 20px;
+	font-size: 1.6rem;
+  color: #EE5757;
+}
+
+#loginOk {
+  display: none;
+  position: absolute;
+  z-index: 13;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  text-align: center;
+
+  padding: 30px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.4);
+
+  font-size: 1.6rem;
+  color: #33E573;
+  width: 200px;
+}

@@ -1,0 +1,15 @@
+.dlgModal {
+  background-color: white;
+  position: fixed;
+  z-index: 13;
+  min-width: 200px;
+  max-height: 80%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border-radius: 3px;
+  padding: 20px;
+  overflow-y: auto;
+  webkit-overflow-scrolling: touch;
+}

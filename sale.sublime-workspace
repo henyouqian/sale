@@ -1,0 +1,777 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"dlg",
+				"Dlg"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/catalog.js",
+			"settings":
+			{
+				"buffer_size": 4823,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site/index.html",
+			"settings":
+			{
+				"buffer_size": 228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.config.dev.js",
+			"settings":
+			{
+				"buffer_size": 1729,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "devServer.js",
+			"settings":
+			{
+				"buffer_size": 673,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cardPage.js",
+			"settings":
+			{
+				"buffer_size": 4823,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/liwei/Documents/projects/2015/sale",
+		"/Users/liwei/Documents/projects/2015/sale/src"
+	],
+	"file_history":
+	[
+		"/Users/liwei/Documents/projects/2015/sale/src/lwUtil.js",
+		"/Users/liwei/Documents/projects/2015/sale/src/lwWs.js",
+		"/Users/liwei/Documents/projects/2015/sale/site/lib/uikit/theme/theme.css",
+		"/Users/liwei/Documents/projects/2015/sale/site/cardPage.html",
+		"/Users/liwei/Documents/projects/2015/sale/src/cardPage.js",
+		"/Users/liwei/Documents/projects/2015/sale/src/dlg.js",
+		"/Users/liwei/Documents/projects/2015/sale/src/dlg.css",
+		"/Users/liwei/Documents/projects/2015/sale/site/common.css",
+		"/Users/liwei/Documents/projects/2015/sale/src/qrLogin.js",
+		"/Users/liwei/Documents/projects/2015/sale/site/onLogin.html",
+		"/Users/liwei/Documents/projects/2015/sale/src/onLogin.js",
+		"/Users/liwei/Documents/projects/2015/sale/webpack.config.dev.js",
+		"/Users/liwei/Documents/projects/2015/sale/webpack.config.prod.js",
+		"/Users/liwei/Documents/projects/2015/sale/src/qrLogin.css",
+		"/Users/liwei/Documents/projects/2015/sale/src/qrLoginWeixin.js",
+		"/Users/liwei/Documents/projects/2015/sale/site/qrLogin.html",
+		"/Users/liwei/Documents/projects/2015/sale/site/qrLoginWeixin.html",
+		"/Users/liwei/Documents/projects/2015/erdianzhang/client/room.js",
+		"/Users/liwei/Documents/projects/2015/erdianzhang/server/auth.go",
+		"/Users/liwei/Documents/projects/2015/sale/site/itemPage.html",
+		"/Users/liwei/Documents/projects/2015/sale/src/lib/uikit/theme/auroraMidnightYellow.css",
+		"/Users/liwei/Documents/projects/2015/sale/dist/common.js",
+		"/Users/liwei/Documents/projects/2015/sale/dist/common.css",
+		"/Users/liwei/Documents/projects/2015/sale/src/itemPage.js",
+		"/Users/liwei/Documents/projects/2015/sale/devServer.js",
+		"/Users/liwei/Documents/projects/2015/sale/package.json",
+		"/Users/liwei/Documents/projects/2015/sale/src/itemPage.html",
+		"/Users/liwei/Documents/projects/2015/sale/src/lib/common.css",
+		"/Users/liwei/Documents/projects/2015/sale/src/App.js",
+		"/Users/liwei/Documents/projects/2015/sale/dist/index.html",
+		"/Users/liwei/Documents/projects/2015/sale/index.html",
+		"/Users/liwei/Documents/projects/2015/sale/src/index.js",
+		"/Users/liwei/Documents/projects/2015/sale/src/pageItem.css",
+		"/Users/liwei/Documents/projects/2015/sale/src/pageItem.js",
+		"/Users/liwei/Documents/projects/2015/sale/src/colors.js",
+		"/Users/liwei/Downloads/react-transform-boilerplate-master/package.json",
+		"/Users/liwei/Documents/projects/2015/wp/package.json",
+		"/Users/liwei/Downloads/redux-tutorial-master/package.json",
+		"/Users/liwei/Downloads/redux-master/examples/real-world/server.js",
+		"/Users/liwei/Downloads/redux-master/examples/real-world/package.json",
+		"/Users/liwei/Downloads/redux-master/package.json",
+		"/Users/liwei/Downloads/react-transform-boilerplate-master/a.html",
+		"/Users/liwei/Downloads/react-hot-boilerplate-master/server.js",
+		"/Users/liwei/Documents/projects/2015/wp/entry.js",
+		"/Users/liwei/Documents/projects/2015/wp/run.sh",
+		"/Users/liwei/Documents/projects/2015/wp/index.html",
+		"/Users/liwei/Downloads/flux-master/examples/flux-todomvc/index.html",
+		"/Users/liwei/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setstate",
+			"SideMenu",
+			"onChange",
+			"alert",
+			"cssDlg",
+			"overflow-y",
+			"_style",
+			"react",
+			"React",
+			"visible",
+			"Dlg",
+			"msg",
+			"editable",
+			"setst",
+			"setState",
+			".log(",
+			"testEls",
+			"Input",
+			"corp",
+			"onSave",
+			"_onsave(",
+			"onsave",
+			"WEIXIN_REDICRCT_URI",
+			"Gudea",
+			"Anaheim",
+			"AUTH_URL",
+			"post",
+			"postlwU",
+			"post",
+			"_onSave",
+			"WEIXIN_REDICRCT_URI",
+			"AUTH_URL",
+			"account",
+			"goAuth",
+			"returnUrl",
+			"css",
+			"ref",
+			"uuid",
+			"wsbind",
+			"roomConnect",
+			"apiCreateRoom",
+			"createConnection",
+			"apiDrawConnect",
+			"apiGetUserInfo",
+			"getUserInfo",
+			"weixinLogin",
+			"returnurl",
+			"goReturnUrl",
+			"goreturnurl",
+			"returnurl\nreturnurl",
+			"returnurl",
+			"return",
+			"goReturnUrl",
+			"goReturnUrl()",
+			"goreturn",
+			"tmpaccou",
+			"uuid",
+			"weixin",
+			"goReturnUrl",
+			"returnUrl",
+			"goReturnUrl()",
+			"returnUrl()",
+			"returnUrl",
+			"returnurl",
+			"go",
+			"onNotLogin",
+			"returnUrl",
+			"getcookie\ngetcookie",
+			"getcookie",
+			"getUrlParam",
+			"function post",
+			"geturlpar",
+			"post(",
+			"gettime()",
+			"xhr",
+			"json",
+			"overflow",
+			"config",
+			"dev",
+			"process",
+			"mapValues",
+			"getState",
+			"config",
+			"dev",
+			".dev.",
+			"increment",
+			"React",
+			"entry",
+			"stylesheetLoaders",
+			"path",
+			"webpack",
+			"backg",
+			"updateStyle",
+			"pink",
+			"aabbcc",
+			"a\"",
+			"a.css",
+			".css",
+			"css",
+			"__webpack_require__",
+			"onCommentSubmit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/catalog.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "site/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "webpack.config.dev.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "devServer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								366,
+								366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/cardPage.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4493,
+								4501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2857.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sale.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"devs",
+				"devServer.js"
+			],
+			[
+				".html",
+				"site/index.html"
+			],
+			[
+				"catalog",
+				"src/catalog.js"
+			],
+			[
+				"dlg.css",
+				"src/dlg.css"
+			],
+			[
+				"common",
+				"site/common.css"
+			],
+			[
+				"dlg.",
+				"src/dlg.js"
+			],
+			[
+				"qrlog",
+				"src/qrLogin.js"
+			],
+			[
+				"onlo",
+				"src/onLogin.js"
+			],
+			[
+				"onlog",
+				"site/onLogin.html"
+			],
+			[
+				"qrloginweix",
+				"src/qrLoginWeixin.js"
+			],
+			[
+				"lwws",
+				"src/lwWs.js"
+			],
+			[
+				"qrlogincs",
+				"src/qrLogin.css"
+			],
+			[
+				"qrloght",
+				"site/qrLogin.html"
+			],
+			[
+				"them",
+				"site/lib/uikit/theme/theme.css"
+			],
+			[
+				"cardpagejs",
+				"src/cardPage.js"
+			],
+			[
+				"cardp",
+				"site/cardPage.html"
+			],
+			[
+				"lwu",
+				"src/lwUtil.js"
+			],
+			[
+				"webpa",
+				"webpack.config.dev.js"
+			],
+			[
+				"card",
+				"src/cardPage.js"
+			],
+			[
+				"cardpag",
+				"src/cardPage.js"
+			],
+			[
+				"commoncss",
+				"site/common.css"
+			],
+			[
+				"qrloginweixin",
+				"src/qrLoginWeixin.js"
+			],
+			[
+				"qrwei",
+				"site/qrLoginWeixin.html"
+			],
+			[
+				"lwutil",
+				"src/lwUtil.js"
+			],
+			[
+				"qrlogin",
+				"src/qrLogin.js"
+			],
+			[
+				"login",
+				"site/qrLogin.html"
+			],
+			[
+				"room.js",
+				"room.js"
+			],
+			[
+				"util",
+				"js/util.js"
+			],
+			[
+				"roomhtml",
+				"room.html"
+			],
+			[
+				"room.go",
+				"server/room.go"
+			],
+			[
+				"auth.go",
+				"server/auth.go"
+			],
+			[
+				"qrlogjs",
+				"src/qrLogin.js"
+			],
+			[
+				"qrloginwei",
+				"src/qrLoginWeixin.js"
+			],
+			[
+				"weixinauth",
+				"weixinAuth.js"
+			],
+			[
+				"accountht",
+				"account.html"
+			],
+			[
+				"account",
+				"account.js"
+			],
+			[
+				"cardedit.js",
+				"catalogCardEdit.js"
+			],
+			[
+				"itempage.cs",
+				"src/itemPage.css"
+			],
+			[
+				"itempa",
+				"site/itemPage.html"
+			],
+			[
+				"common.",
+				"src/common.css"
+			],
+			[
+				"itempagejs",
+				"src/itemPage.js"
+			],
+			[
+				"itempage.h",
+				"site/itemPage.html"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"itempageht",
+				"site/itemPage.html"
+			],
+			[
+				"webpack",
+				"webpack.config.dev.js"
+			],
+			[
+				"common.css",
+				"dist/common.css"
+			],
+			[
+				"com",
+				"dist/common.js"
+			],
+			[
+				"itempage",
+				"src/itemPage.html"
+			],
+			[
+				"devser",
+				"devServer.js"
+			],
+			[
+				"indexht",
+				"dist/index.html"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"itempage.js",
+				"src/itemPage.js"
+			],
+			[
+				"index.js",
+				"src/index.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"pageicss",
+				"src/pageItem.css"
+			],
+			[
+				"pagei",
+				"src/pageItem.js"
+			],
+			[
+				"server",
+				"devServer.js"
+			],
+			[
+				"a.",
+				"a.html"
+			],
+			[
+				"entr",
+				"src/entry.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
